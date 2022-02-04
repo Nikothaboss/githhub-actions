@@ -1,0 +1,16 @@
+{
+  "name": "jest-101",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nikothaboss <57292271+Nikothaboss@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.17.0",
+    "@babel/preset-env": "^7.16.11",
+    "babel-jest": "^27.4.6",
+    "jest": "^27.4.7"
+  },
+  "scripts": {
+    "test": "jest --coverage --watchAll"
+  }
+}
